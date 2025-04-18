@@ -4,7 +4,7 @@
 
 Il gioco unisce ironia universitaria e logiche da card game strategico: i giocatori impersonano studenti alle prese con CFU, carte ostacolo e la minaccia della rinuncia agli studi. Obiettivo? Laurearsi (cioè: arrivare a 60 CFU) o essere l’ultimo superstite!
 
-## 🛠 Funzionalità implementate
+## Funzionalità implementate
 
 - Modalità **manuale** con 2-4 giocatori.
 - Tutti gli **effetti delle carte CFU punto e istantanee** sono pienamente implementati.
@@ -13,7 +13,7 @@ Il gioco unisce ironia universitaria e logiche da card game strategico: i giocat
 - **Compatibilità con salvataggio binario** (`savegame.sav`), come da specifica.
 - Lettura dei mazzi e personaggi da file di testo (`carte.txt`, `ostacoli.txt`, `giocatori.txt`).
 
-## 🎮 Regole del gioco
+## Regole del gioco
 
 - Ogni giocatore impersona uno studente con caratteristiche uniche (bonus/malus).
 - Al proprio turno, si gioca una carta CFU e si cerca di evitare una **carta ostacolo**.
@@ -27,7 +27,7 @@ Il gioco unisce ironia universitaria e logiche da card game strategico: i giocat
   - Se si ottiene un ostacolo per ogni tipologia.
   - Le carte **ESAME** fungono da jolly per gli ostacoli.
 
-## 🧾 File Utilizzati
+## File Utilizzati
 
 | File             | Descrizione |
 |------------------|-------------|
@@ -39,7 +39,7 @@ Il gioco unisce ironia universitaria e logiche da card game strategico: i giocat
 | `log.c/.h`       | Scrittura nel file di log |
 | `utils.c/.h`     | Funzioni di utilità varie |
 
-## 💾 Salvataggi
+## Salvataggi
 
 Il gioco supporta **più file di salvataggio**:
 - Ogni turno viene salvato automaticamente.
@@ -48,7 +48,7 @@ Il gioco supporta **più file di salvataggio**:
 
 Formato conforme alla struttura `savegame.sav` descritta nelle specifiche.
 
-## 📝 Log
+## Log
 
 Il file `log.txt` tiene traccia cronologica degli eventi della partita, ad esempio:
 
