@@ -27,17 +27,30 @@ Il gioco unisce ironia universitaria e logiche da card game strategico: i giocat
   - Se si ottiene un ostacolo per ogni tipologia.
   - Le carte **ESAME** fungono da jolly per gli ostacoli.
 
-## File Utilizzati
+## Struttura del Progetto per Fasi
 
-| File             | Descrizione |
-|------------------|-------------|
-| `main.c`         | Avvio del gioco, menu principale |
-| `giocatore.c/.h` | Strutture e logica dei giocatori |
-| `carte.c/.h`     | Gestione carte CFU e ostacolo |
-| `logica.c/.h`    | Meccaniche di gioco, punteggi, vincitori |
-| `salvataggi.c/.h`| Salvataggio/caricamento della partita |
-| `log.c/.h`       | Scrittura nel file di log |
-| `utils.c/.h`     | Funzioni di utilità varie |
+### `faseUno/` – Preparazione della Partita
+- **Visualizza presentazione** e spiega le regole.
+- Caricamento file `giocatori.txt`, `carte.txt`, `ostacoli.txt`.
+- Inizializzazione mazzi e giocatori.
+- Assegnazione casuale dei personaggi.
+- Shuffle dei mazzi.
+
+### `faseDue/` – Svolgimento dei Turni
+- Gestione del ciclo dei turni:
+  - Inizio turno e stampa carta ostacolo.
+  - Scelte del giocatore: giocare carta, scartare, consultare informazioni.
+  - Aggiornamento punteggi temporanei.
+  - Rivelazione carte.
+- Azioni organizzate in sottocartelle:
+  - `giocaCarta/`, `scartaTutteCarteCFU/`, `controllaCartePunto/` ecc.
+
+### `faseTre/` – Chiusura e Condizioni di Vittoria
+- Applicazione effetti carte CFU.
+- Calcolo punteggio finale del turno.
+- Verifica condizioni di eliminazione o vittoria.
+- Gestione spareggi e uso carte istantanee.
+- Conclusione della partita e stampa vincitore.
 
 ## Salvataggi
 
@@ -54,7 +67,7 @@ Il file `log.txt` tiene traccia cronologica degli eventi della partita, ad esemp
 
 TURNO 1: Matteo gioca Clion TURNO 1: Alice gioca Tastiera TURNO 2: Luca gioca Maglione Natale ...
 
-##Requisiti e note
+## Requisiti e note
 -Standard C99.
 -Non utilizza librerie esterne.
 -Tutte le strutture rispettano l’ordine richiesto per compatibilità con i salvataggi.
