@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Happy_Little_Students_V0_3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Happy_Little_Students_V0_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Happy_Little_Students_V0_3-Debug-b591deb585f9fe094e60.json",
+					"name" : "Happy_Little_Students_V0_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/matte/OneDrive/Desktop/Progetto_PR1/Happy_Little_Students_V0.3/cmake-build-debug",
+		"source" : "C:/Users/matte/OneDrive/Desktop/Progetto_PR1/Happy_Little_Students_V0.3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

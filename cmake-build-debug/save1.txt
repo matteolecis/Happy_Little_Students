@@ -1,0 +1,116 @@
+Numero di Giocatori: 2
+Giocatore: Matteo
+Personaggio: Ricosauro
+Abilità tipo ostacoli: 0 0 0 1 
+CFU: 24
+Carta CFU: Usa ChatGPT, Valore: 0, Effetto: 11
+Carta CFU: Esse3, Valore: 3, Effetto: 0
+Carta CFU: Copia dal collega, Valore: 0, Effetto: 12
+Carta CFU: Scambio di esame, Valore: 0, Effetto: 13
+End of CFU Cards
+Carta Ostacolo: Batteria scarica, Descrizione: Torni a casa e ti accorgi che ti sei dimenticato il caricabatterie in aula magna, Tipo: 1
+End of Ostacolo Cards
+Giocatore: Simone
+Personaggio: Lucasauro
+Abilità tipo ostacoli: -1 1 0 0 
+CFU: 9
+Carta CFU: Unicamente, Valore: 4, Effetto: 0
+Carta CFU: Esame di recupero, Valore: 0, Effetto: 14
+Carta CFU: Mouse, Valore: 1, Effetto: 0
+End of CFU Cards
+Carta Ostacolo: Una fila infinita, Descrizione: Arrivi in mensa in via Trentino e c'è una fila chilometrica, Tipo: 1
+Carta Ostacolo: Va tutto bene?, Descrizione: Prof. Puglisi ti chiede se va tutto bene, ma non va tutto bene, Tipo: 0
+End of Ostacolo Cards
+Numero di Carte CFU nel Mazzo: 55
+Carta CFU nel Mazzo: DevC++, Valore: 5, Effetto: 0
+Carta CFU nel Mazzo: Usa ChatGPT, Valore: 0, Effetto: 11
+Carta CFU nel Mazzo: Snitcha il collega, Valore: 0, Effetto: 15
+Carta CFU nel Mazzo: Aula Magna Fisica, Valore: 8, Effetto: 9
+Carta CFU nel Mazzo: Mouse, Valore: 1, Effetto: 0
+Carta CFU nel Mazzo: CLion, Valore: 5, Effetto: 6
+Carta CFU nel Mazzo: Unicamente, Valore: 4, Effetto: 0
+Carta CFU nel Mazzo: Usa ChatGPT, Valore: 0, Effetto: 11
+Carta CFU nel Mazzo: Esame di recupero, Valore: 0, Effetto: 14
+Carta CFU nel Mazzo: Eduroam, Valore: 4, Effetto: 5
+Carta CFU nel Mazzo: InfoLife, Valore: 9, Effetto: 0
+Carta CFU nel Mazzo: Esse3, Valore: 3, Effetto: 0
+Carta CFU nel Mazzo: Cavo USB, Valore: 2, Effetto: 3
+Carta CFU nel Mazzo: Esse3, Valore: 3, Effetto: 0
+Carta CFU nel Mazzo: Dispense Teoria, Valore: 7, Effetto: 0
+Carta CFU nel Mazzo: DevC++, Valore: 5, Effetto: 0
+Carta CFU nel Mazzo: Slide Lab, Valore: 7, Effetto: 8
+Carta CFU nel Mazzo: Dispense Teoria, Valore: 7, Effetto: 0
+Carta CFU nel Mazzo: DevC++, Valore: 5, Effetto: 0
+Carta CFU nel Mazzo: Laboratorio T, Valore: 8, Effetto: 0
+Carta CFU nel Mazzo: Copia dal collega, Valore: 0, Effetto: 12
+Carta CFU nel Mazzo: Cavo Ethernet, Valore: 2, Effetto: 0
+Carta CFU nel Mazzo: Mouse, Valore: 1, Effetto: 0
+Carta CFU nel Mazzo: Usa ChatGPT, Valore: 0, Effetto: 11
+Carta CFU nel Mazzo: Aula Magna Fisica, Valore: 8, Effetto: 9
+Carta CFU nel Mazzo: InfoLife, Valore: 9, Effetto: 0
+Carta CFU nel Mazzo: BatCaverna, Valore: 9, Effetto: 10
+Carta CFU nel Mazzo: Mouse, Valore: 1, Effetto: 0
+Carta CFU nel Mazzo: Dispense Teoria, Valore: 7, Effetto: 0
+Carta CFU nel Mazzo: Monitor, Valore: 0, Effetto: 1
+Carta CFU nel Mazzo: Dispense Teoria, Valore: 7, Effetto: 0
+Carta CFU nel Mazzo: Monitor, Valore: 0, Effetto: 1
+Carta CFU nel Mazzo: Laboratorio T, Valore: 8, Effetto: 0
+Carta CFU nel Mazzo: Maglione Natale, Valore: 6, Effetto: 7
+Carta CFU nel Mazzo: Laboratorio T, Valore: 8, Effetto: 0
+Carta CFU nel Mazzo: Cavo Ethernet, Valore: 2, Effetto: 0
+Carta CFU nel Mazzo: Cappellino Natale, Valore: 6, Effetto: 0
+Carta CFU nel Mazzo: Cappellino Natale, Valore: 6, Effetto: 0
+Carta CFU nel Mazzo: Cavo USB, Valore: 2, Effetto: 3
+Carta CFU nel Mazzo: Monitor, Valore: 0, Effetto: 1
+Carta CFU nel Mazzo: Cavo Ethernet, Valore: 2, Effetto: 0
+Carta CFU nel Mazzo: MS Teams, Valore: 3, Effetto: 4
+Carta CFU nel Mazzo: Eduroam, Valore: 4, Effetto: 5
+Carta CFU nel Mazzo: Usa ChatGPT, Valore: 0, Effetto: 11
+Carta CFU nel Mazzo: Monitor, Valore: 0, Effetto: 1
+Carta CFU nel Mazzo: Slide Lab, Valore: 7, Effetto: 8
+Carta CFU nel Mazzo: Esame di recupero, Valore: 0, Effetto: 14
+Carta CFU nel Mazzo: CLion, Valore: 5, Effetto: 6
+Carta CFU nel Mazzo: Copia dal collega, Valore: 0, Effetto: 12
+Carta CFU nel Mazzo: Tastiera, Valore: 1, Effetto: 2
+Carta CFU nel Mazzo: DevC++, Valore: 5, Effetto: 0
+Carta CFU nel Mazzo: Esse3, Valore: 3, Effetto: 0
+Carta CFU nel Mazzo: Copia dal collega, Valore: 0, Effetto: 12
+Carta CFU nel Mazzo: Maglione Natale, Valore: 6, Effetto: 7
+Carta CFU nel Mazzo: Tastiera, Valore: 1, Effetto: 2
+Numero di Carte CFU nel Mazzo: 12
+Carta CFU nel Mazzo: Snitcha il collega, Valore: 0, Effetto: 15
+Carta CFU nel Mazzo: Cappellino Natale, Valore: 6, Effetto: 0
+Carta CFU nel Mazzo: InfoLife, Valore: 9, Effetto: 0
+Carta CFU nel Mazzo: Copia dal collega, Valore: 0, Effetto: 12
+Carta CFU nel Mazzo: Unicamente, Valore: 4, Effetto: 0
+Carta CFU nel Mazzo: MS Teams, Valore: 3, Effetto: 4
+Carta CFU nel Mazzo: BatCaverna, Valore: 9, Effetto: 10
+Carta CFU nel Mazzo: Laboratorio T, Valore: 9, Effetto: 0
+Carta CFU nel Mazzo: Cavo Ethernet, Valore: 2, Effetto: 0
+Carta CFU nel Mazzo: InfoLife, Valore: 9, Effetto: 0
+Carta CFU nel Mazzo: Unicamente, Valore: 4, Effetto: 0
+Carta CFU nel Mazzo: Cappellino Natale, Valore: 6, Effetto: 0
+Numero di Carte Ostacolo nel Mazzo: 23
+Carta Ostacolo nel Mazzo: PR1 Lab, Descrizione: Il progetto di PR1 non compila e non riesci a consegnarlo, Tipo: 3
+Carta Ostacolo nel Mazzo: Rotta della caffeina, Descrizione: La macchinetta del caffè è fuori servizio e devi affrontare la giornata senza caffeina, Tipo: 1
+Carta Ostacolo nel Mazzo: PR1 Teoria, Descrizione: Prof. Scateni scatena la sua furia e ti boccia al parziale di PR1, Tipo: 3
+Carta Ostacolo nel Mazzo: Festa in casa, Descrizione: I tuoi coinquilini organizzano una festa in casa e non riesci a studiare per il parziale di PR1, Tipo: 2
+Carta Ostacolo nel Mazzo: Printf scurrili, Descrizione: Consegni il progetto di PR1 e scopri che hai lasciato un printf con una parolaccia, Tipo: 0
+Carta Ostacolo nel Mazzo: Ateneika fallimentare, Descrizione: Ti iscrivi al torneo di biliardino di Ateneika e arrivi ultimo (e neanche di poco), Tipo: 2
+Carta Ostacolo nel Mazzo: Ignorato come sempre, Descrizione: Arrivi in biblioteca di ingegneria e i tuoi colleghi non ti hanno tenuto il posto, Tipo: 2
+Carta Ostacolo nel Mazzo: Intossicazione alimentare, Descrizione: In mensa prendi le polpette e torni a casa con un colorito strano, Tipo: 1
+Carta Ostacolo nel Mazzo: Maledetto Lab T, Descrizione: I PC del laboratorio non partono e il parziale inizia con 45 minuti di ritardo, Tipo: 0
+Carta Ostacolo nel Mazzo: Sciopero del CTM, Descrizione: Il CTM è in sciopero e non puoi tornare a casa, Tipo: 1
+Carta Ostacolo nel Mazzo: Tutti fermi, Descrizione: Durante PR1 parte la musica di Pokemon Smeraldo, Luca si ferma e tutti si girano a guardarti, Tipo: 0
+Carta Ostacolo nel Mazzo: Troppo veloce, Descrizione: Ti distrai mezzo secondo per guardare TikTok e la Prof. Carrisi ha spiegato gli integrali tripli, Tipo: 0
+Carta Ostacolo nel Mazzo: Doppio appuntamento, Descrizione: Inviti il tuo collega a studiare, ma lui porta anche il suo gruppo di amici (ingegneri), Tipo: 2
+Carta Ostacolo nel Mazzo: Debugging infinito, Descrizione: Dopo ore di debugging, scopri che il problema era una parentesi mancante, Tipo: 0
+Carta Ostacolo nel Mazzo: Le priorità della vita, Descrizione: Vorresti studiare per il parziale di PR1 ma esce Fortnite OG, Tipo: 2
+Carta Ostacolo nel Mazzo: Perdi tutto, Descrizione: Prof. Loddo chiede se i PC vanno e il tuo esplode perdendo il parziale, Tipo: 0
+Carta Ostacolo nel Mazzo: Metti il caschetto, Descrizione: Stai seguendo la lezione e crolla un calcinaccio dal soffitto, Tipo: 1
+Carta Ostacolo nel Mazzo: Mauro infuriato, Descrizione: Durante la pausa pranzo sposti i puff e Mauro ti urla contro, Tipo: 1
+Carta Ostacolo nel Mazzo: Parcheggio not found, Descrizione: Non trovi parcheggio e ti tocca mettere le macchina a Buon Cammino, Tipo: 2
+Carta Ostacolo nel Mazzo: Sbiccato copiare, Descrizione: Federico passa tra i banchi e ti becca con Discord aperto, Tipo: 0
+Carta Ostacolo nel Mazzo: Nessuno mi vuole, Descrizione: Compri il gioco di società Happy Little Dinosaurs ma nessuno vuole giocare con te, Tipo: 2
+Carta Ostacolo nel Mazzo: Molletta per il naso, Descrizione: Vai in bagno durante la pausa di PR1 e trovi fila con il bagno che puzza moltissimo, Tipo: 2
+Carta Ostacolo nel Mazzo: Analisi, Descrizione: Sbagli e vai all'esame di Analisi di quelli di Matematica, Tipo: 3

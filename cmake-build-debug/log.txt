@@ -1,0 +1,801 @@
+Partita del: 2024-06-27 17:32:22
+TURNO 1: F gioca Cappellino Natale
+TURNO 1: G gioca Aula Magna Fisica
+Partita del: 2024-06-27 17:55:50
+Partita del: 2024-06-27 17:57:17
+TURNO 1: Matteo gioca InfoLife
+TURNO 1: Simone gioca Unicamente
+Partita del: 2024-06-27 18:21:32
+Partita del: 2024-06-27 18:21:59
+Partita del: 2024-06-27 18:22:58
+Partita del: 2024-06-27 18:24:20
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Simone gioca Monitor
+TURNO 1: Lorenzo gioca Unicamente
+TURNO 2: Matteo gioca Tastiera
+TURNO 2: Simone gioca Cavo Ethernet
+TURNO 2: Lorenzo gioca DevC++
+Partita del: 2024-06-27 19:41:21
+Partita del: 2024-06-27 19:42:37
+Partita del: 2024-06-27 19:45:54
+Partita del: 2024-06-27 19:47:06
+Partita del: 2024-06-27 19:48:49
+Partita del: 2024-06-27 19:50:21
+Partita del: 2024-06-27 19:51:44
+Partita del: 2024-06-27 19:54:54
+Partita del: 2024-06-27 19:55:47
+Partita del: 2024-06-27 19:56:08
+Partita del: 2024-06-27 20:01:23
+Partita del: 2024-06-27 20:04:12
+Partita del: 2024-06-27 20:04:50
+Partita del: 2024-06-27 20:05:22
+Partita del: 2024-06-27 20:05:53
+Partita del: 2024-06-27 20:07:35
+Partita del: 2024-06-27 20:08:19
+Partita del: 2024-06-27 20:08:45
+Partita del: 2024-06-27 20:09:20
+Partita del: 2024-06-27 20:10:01
+Partita del: 2024-06-27 20:10:36
+Partita del: 2024-06-27 20:17:46
+Partita del: 2024-06-27 20:22:40
+Partita del: 2024-06-27 20:23:37
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Simone gioca Cavo Ethernet
+Partita del: 2024-06-28 10:54:46
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: Simone gioca Cappellino Natale
+Partita del: 2024-06-28 11:31:21
+TURNO 1: Matteo gioca Esse3
+TURNO 1: Simone gioca Cappellino Natale
+TURNO 2: Matteo gioca InfoLife
+TURNO 2: Simone gioca DevC++
+TURNO 3: Matteo gioca Monitor
+TURNO 3: Simone gioca Slide Lab
+Partita del: 2024-06-28 11:43:59
+Partita del: 2024-06-28 11:48:42
+Partita del: 2024-06-28 11:49:12
+Partita del: 2024-06-28 11:49:20
+Partita del: 2024-06-28 11:59:58
+Partita del: 2024-06-28 12:00:05
+Partita del: 2024-06-28 12:00:11
+Partita del: 2024-06-28 12:00:16
+Partita del: 2024-06-28 12:05:01
+Partita del: 2024-06-28 12:05:54
+Partita del: 2024-06-28 12:06:27
+Partita del: 2024-06-28 12:09:11
+Partita del: 2024-06-28 12:09:33
+Partita del: 2024-06-28 12:10:12
+Partita del: 2024-06-28 12:10:33
+Partita del: 2024-06-28 12:10:47
+Partita del: 2024-06-28 12:11:31
+Partita del: 2024-06-28 12:12:02
+Partita del: 2024-06-28 12:12:16
+Partita del: 2024-06-28 12:12:26
+Partita del: 2024-06-28 12:19:48
+Partita del: 2024-06-28 12:36:07
+Partita del: 2024-06-28 12:36:38
+Partita del: 2024-06-28 12:37:41
+Partita del: 2024-06-28 12:39:49
+Partita del: 2024-06-28 12:41:44
+Partita del: 2024-06-28 12:42:17
+Partita del: 2024-06-28 12:43:40
+Partita del: 2024-06-28 12:46:59
+Partita del: 2024-06-28 12:47:24
+Partita del: 2024-06-28 12:48:07
+TURNO 1: Matteo gioca InfoLife
+TURNO 1: Simone gioca DevC++
+TURNO 2: Matteo gioca Laboratorio T
+TURNO 2: Simone gioca Cappellino Natale
+Partita del: 2024-06-28 12:51:57
+Partita del: 2024-06-28 12:52:25
+Partita del: 2024-06-28 12:52:42
+Partita del: 2024-06-28 12:53:57
+Partita del: 2024-06-28 12:54:09
+Partita del: 2024-06-28 12:54:27
+Partita del: 2024-06-28 12:54:38
+Partita del: 2024-06-28 12:54:48
+Partita del: 2024-06-28 12:54:56
+Partita del: 2024-06-28 12:55:03
+Partita del: 2024-06-28 12:55:32
+Partita del: 2024-06-28 12:56:01
+TURNO 1: Matteo gioca Cappellino Natale
+TURNO 1: Simone gioca Esse3
+Partita del: 2024-06-28 12:57:38
+Partita del: 2024-06-28 12:58:16
+Partita del: 2024-06-28 13:00:20
+Partita del: 2024-06-28 13:04:05
+TURNO 1: Matteo gioca BatCaverna
+TURNO 1: Simone gioca Unicamente
+Partita del: 2024-06-28 13:05:42
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Simone gioca Unicamente
+Partita del: 2024-06-28 13:07:02
+TURNO 1: Matteo gioca Laboratorio T
+TURNO 1: Simone gioca Eduroam
+Partita del: 2024-06-28 13:12:56
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Simone gioca Cappellino Natale
+Partita del: 2024-06-28 14:07:43
+Partita del: 2024-06-28 14:11:18
+Partita del: 2024-06-28 14:11:56
+Partita del: 2024-06-28 14:12:26
+Partita del: 2024-06-28 14:54:35
+TURNO 1: Matteo gioca Eduroam
+TURNO 1: Simone gioca Mouse
+Partita del: 2024-06-28 14:56:53
+TURNO 1: Matteo gioca InfoLife
+TURNO 1: Simone gioca Cavo USB
+TURNO 2: Matteo gioca Cavo Ethernet
+TURNO 2: Simone gioca Laboratorio T
+TURNO 3: Matteo gioca Cappellino Natale
+TURNO 3: Simone gioca Slide Lab
+TURNO 4: Matteo gioca Cappellino Natale
+TURNO 4: Simone gioca BatCaverna
+TURNO 5: Matteo gioca Laboratorio T
+TURNO 5: Simone gioca Cavo USB
+TURNO 6: Matteo gioca Mouse
+TURNO 6: Simone gioca Eduroam
+Partita del: 2024-06-28 15:22:07
+Partita del: 2024-06-28 15:25:03
+Partita del: 2024-06-28 15:27:05
+TURNO 1: Matteo gioca InfoLife
+TURNO 1: Simone gioca DevC++
+Partita del: 2024-06-28 15:30:10
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca Dispense Teoria
+Partita del: 2024-06-28 15:36:11
+Partita del: 2024-06-28 15:40:15
+Partita del: 2024-06-28 15:42:06
+Partita del: 2024-06-28 15:45:39
+Partita del: 2024-06-28 15:47:31
+Partita del: 2024-06-28 15:50:17
+Partita del: 2024-06-28 16:05:26
+Partita del: 2024-06-28 16:12:00
+Partita del: 2024-06-28 16:13:41
+TURNO 1: Matteo gioca InfoLife
+TURNO 1: Simone gioca Unicamente
+Partita del: 2024-06-28 16:16:03
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: Simone gioca Dispense Teoria
+Partita del: 2024-06-28 16:17:19
+TURNO 1: Matteo gioca Maglione Natale
+TURNO 1: Simone gioca Dispense Teoria
+Partita del: 2024-06-28 16:19:41
+Partita del: 2024-06-28 16:20:38
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Simone gioca DevC++
+TURNO 2: Matteo gioca Cappellino Natale
+TURNO 2: Simone gioca Mouse
+Partita del: 2024-06-28 16:24:40
+Partita del: 2024-06-28 16:29:52
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: Simone gioca Cavo Ethernet
+Partita del: 2024-06-28 16:34:32
+Partita del: 2024-06-28 16:36:51
+Partita del: 2024-06-29 11:27:17
+TURNO 1: Matteo gioca Slide Lab
+TURNO 1: Simone gioca Monitor
+TURNO 2: Matteo gioca DevC++
+TURNO 2: Simone gioca Cappellino Natale
+TURNO 3: Matteo gioca Monitor
+TURNO 3: Simone gioca DevC++
+TURNO 4: Matteo gioca Tastiera
+TURNO 4: Simone gioca Cappellino Natale
+TURNO 5: Matteo gioca Laboratorio T
+TURNO 5: Simone gioca Maglione Natale
+TURNO 6: Matteo gioca Unicamente
+TURNO 6: Simone gioca Dispense Teoria
+Partita del: 2024-06-29 11:59:07
+Partita del: 2024-06-29 12:00:46
+Partita del: 2024-06-29 12:01:02
+TURNO 1: F gioca Cappellino Natale
+TURNO 1: G gioca Esse3
+TURNO 2: F gioca Mouse
+TURNO 2: G gioca InfoLife
+TURNO 3: F gioca Dispense Teoria
+TURNO 3: G gioca Cappellino Natale
+TURNO 4: F gioca Cappellino Natale
+TURNO 4: G gioca InfoLife
+Partita del: 2024-06-29 12:02:09
+Partita del: 2024-06-29 12:05:56
+TURNO 1: Matteo gioca Cappellino Natale
+TURNO 1: Simone gioca Esse3
+TURNO 2: Matteo gioca Cappellino Natale
+TURNO 2: Simone gioca Aula Magna Fisica
+TURNO 3: Matteo gioca Esse3
+TURNO 3: Simone gioca Monitor
+Partita del: 2024-06-29 12:17:17
+TURNO 1: Matteo gioca Eduroam
+TURNO 1: Simone gioca Cavo USB
+TURNO 2: Matteo gioca Esse3
+TURNO 2: Simone gioca Cavo Ethernet
+Partita del: 2024-06-29 12:27:38
+Partita del: 2024-06-29 12:34:13
+TURNO 1: Matteo gioca Cavo USB
+TURNO 1: Simone gioca Aula Magna Fisica
+TURNO 2: Matteo gioca Tastiera
+TURNO 2: Simone gioca InfoLife
+Partita del: 2024-06-29 12:36:43
+TURNO 1: Matteo gioca Cavo Ethernet
+TURNO 1: Simone gioca CLion
+TURNO 2: Matteo gioca Monitor
+TURNO 2: Simone gioca Aula Magna Fisica
+Partita del: 2024-06-29 12:39:10
+TURNO 1: Matteo gioca Cavo USB
+TURNO 1: Simone gioca Esse3
+TURNO 2: Matteo gioca DevC++
+TURNO 2: Simone gioca Mouse
+Partita del: 2024-06-29 13:42:52
+TURNO 1: Matteo gioca Laboratorio T
+TURNO 1: Paolo gioca Slide Lab
+TURNO 2: Matteo gioca Laboratorio T
+TURNO 2: Paolo gioca Dispense Teoria
+TURNO 3: Matteo gioca BatCaverna
+TURNO 3: Paolo gioca Eduroam
+Partita del: 2024-07-01 15:10:19
+TURNO 1: A gioca Esse3
+TURNO 1: S gioca Unicamente
+Partita del: 2024-07-01 15:30:23
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca Laboratorio T
+Partita del: 2024-07-01 15:31:59
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca DevC++
+Partita del: 2024-07-01 15:33:23
+TURNO 1: Matteo gioca Cappellino Natale
+TURNO 1: Simone gioca InfoLife
+Partita del: 2024-07-01 15:35:43
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Simone gioca Unicamente
+Partita del: 2024-07-01 16:13:28
+TURNO 1: Matteo gioca Esse3
+TURNO 1: Simone gioca Unicamente
+Partita del: 2024-07-01 16:19:44
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Simone gioca Dispense Teoria
+Partita del: 2024-07-01 16:25:00
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca Cavo Ethernet
+Partita del: 2024-07-01 16:31:25
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Gianpaolo gioca Laboratorio T
+Partita del: 2024-07-01 16:32:10
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: Gianpaolo gioca Laboratorio T
+Partita del: 2024-07-01 16:33:00
+Partita del: 2024-07-01 19:52:53
+TURNO 1: Marco gioca Esse3
+TURNO 1: Giacomo gioca Mouse
+TURNO 2: Marco gioca Cavo Ethernet
+TURNO 2: Giacomo gioca DevC++
+Partita del: 2024-07-01 19:53:40
+Partita del: 2024-07-01 19:56:32
+Partita del: 2024-07-01 19:57:01
+TURNO 1: Mario gioca Mouse
+TURNO 1: Sempronio gioca Mouse
+Partita del: 2024-07-01 19:58:11
+TURNO 1: Mario gioca Mouse
+TURNO 1: Sempronio gioca Mouse
+Partita del: 2024-07-01 20:08:28
+Partita del: 2024-07-01 20:08:45
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: Simone gioca Laboratorio T
+Partita del: 2024-07-01 20:09:32
+TURNO 1: Matteo gioca Cappellino Natale
+TURNO 1: Simone gioca Cavo Ethernet
+Partita del: 2024-07-01 20:10:45
+TURNO 1: Matteo gioca Laboratorio T
+TURNO 1: Simone gioca Dispense Teoria
+Partita del: 2024-07-01 20:11:42
+TURNO 1: Matteo gioca Cavo USB
+TURNO 1: Simone gioca Cavo Ethernet
+Partita del: 2024-07-01 20:18:25
+Partita del: 2024-07-01 20:18:55
+Partita del: 2024-07-01 20:20:48
+Partita del: 2024-07-01 20:21:03
+Partita del: 2024-07-01 20:45:28
+Partita del: 2024-07-01 21:26:20
+Partita del: 2024-07-01 21:30:20
+Partita del: 2024-07-01 21:30:25
+Partita del: 2024-07-01 21:30:44
+Partita del: 2024-07-01 21:30:57
+Partita del: 2024-07-01 21:31:42
+Partita del: 2024-07-01 21:34:08
+TURNO 1: Matteo gioca Esse3
+TURNO 1: Lorenzo gioca Unicamente
+TURNO 2: Matteo gioca Esse3
+TURNO 2: Lorenzo gioca Eduroam
+TURNO 3: Matteo gioca Laboratorio T
+TURNO 3: Lorenzo gioca Mouse
+Partita del: 2024-07-01 21:39:12
+Partita del: 2024-07-01 22:08:48
+TURNO 1: Matteo gioca InfoLife
+TURNO 1: Simone gioca Cappellino Natale
+Partita del: 2024-07-01 22:09:26
+Partita del: 2024-07-01 22:09:44
+Partita del: 2024-07-02 00:22:31
+Partita del: 2024-07-02 00:28:18
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Simone gioca DevC++
+TURNO 2: Matteo gioca Cappellino Natale
+TURNO 2: Simone gioca Cavo Ethernet
+Partita del: 2024-07-02 00:32:45
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca Laboratorio T
+Partita del: 2024-07-02 00:33:21
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: Simone gioca Cappellino Natale
+Partita del: 2024-07-02 00:40:00
+Partita del: 2024-07-02 00:40:37
+Partita del: 2024-07-02 00:43:07
+Partita del: 2024-07-02 00:43:32
+Partita del: 2024-07-02 00:43:48
+Partita del: 2024-07-02 00:44:47
+Partita del: 2024-07-02 00:45:01
+Partita del: 2024-07-02 00:46:03
+Partita del: 2024-07-02 00:46:18
+Partita del: 2024-07-02 00:48:41
+Partita del: 2024-07-02 00:48:54
+Partita del: 2024-07-02 02:20:14
+TURNO 1: Matteo gioca Monitor
+TURNO 1: Simone gioca Laboratorio T
+TURNO 1: Luciano gioca Cavo Ethernet
+TURNO 2: Matteo gioca InfoLife
+TURNO 2: Simone gioca Aula Magna Fisica
+TURNO 2: Luciano gioca Eduroam
+TURNO 3: Matteo gioca Dispense Teoria
+TURNO 3: Simone gioca Laboratorio T
+TURNO 3: Luciano gioca Cappellino Natale
+TURNO 4: Matteo gioca Cavo Ethernet
+TURNO 4: Simone gioca Esse3
+TURNO 4: Luciano gioca Esse3
+TURNO 5: Matteo gioca InfoLife
+TURNO 5: Simone gioca Tastiera
+TURNO 5: Luciano gioca CLion
+Partita del: 2024-07-02 11:24:48
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Simone gioca Cappellino Natale
+TURNO 1: Luciano gioca Dispense Teoria
+TURNO 2: Matteo gioca Monitor
+TURNO 2: Simone gioca Cavo Ethernet
+TURNO 2: Luciano gioca BatCaverna
+TURNO 3: Matteo gioca Tastiera
+TURNO 3: Simone gioca Laboratorio T
+TURNO 3: Luciano gioca InfoLife
+TURNO 4: Simone gioca Eduroam
+TURNO 4: Luciano gioca Slide Lab
+TURNO 5: Simone gioca Laboratorio T
+TURNO 5: Luciano gioca Cappellino Natale
+TURNO 6: Simone gioca Unicamente
+TURNO 6: Luciano gioca Unicamente
+Partita del: 2024-07-02 11:32:22
+Partita del: 2024-07-02 11:34:57
+Partita del: 2024-07-02 11:37:38
+Partita del: 2024-07-02 11:38:06
+Partita del: 2024-07-02 11:40:11
+Partita del: 2024-07-02 11:41:52
+Partita del: 2024-07-02 11:42:00
+Partita del: 2024-07-02 11:48:33
+Partita del: 2024-07-02 11:51:35
+Partita del: 2024-07-02 11:53:01
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca Dispense Teoria
+Partita del: 2024-07-02 11:58:53
+Partita del: 2024-07-02 12:02:33
+Partita del: 2024-07-02 12:04:11
+Partita del: 2024-07-02 12:05:23
+Partita del: 2024-07-02 12:05:58
+Partita del: 2024-07-02 12:06:55
+TURNO 1: Simone gioca InfoLife
+TURNO 1:  ]»¤ gioca Unicamente
+Partita del: 2024-07-02 12:07:23
+Partita del: 2024-07-02 12:09:53
+Partita del: 2024-07-02 12:10:22
+TURNO 1: Matteo gioca Esse3
+TURNO 1: Simone gioca Mouse
+TURNO 1: Luciano gioca Cavo Ethernet
+Partita del: 2024-07-02 12:12:10
+TURNO 1: Matteo gioca Esse3
+TURNO 1: Simone gioca Unicamente
+TURNO 1: Luciano gioca InfoLife
+Partita del: 2024-07-02 12:18:00
+TURNO 1: Matteo gioca InfoLife
+TURNO 1: Simone gioca Unicamente
+TURNO 1: Giacomo gioca Mouse
+Partita del: 2024-07-02 12:19:28
+Partita del: 2024-07-02 12:21:14
+TURNO 1: Matteo gioca Laboratorio T
+TURNO 1: Simone gioca Esse3
+TURNO 1: Giacomo gioca Cavo Ethernet
+TURNO 2: Matteo gioca DevC++
+TURNO 2: Simone gioca Unicamente
+TURNO 2: Giacomo gioca Laboratorio T
+TURNO 3: Matteo gioca DevC++
+TURNO 3: Simone gioca Esse3
+TURNO 3: Giacomo gioca Dispense Teoria
+Partita del: 2024-07-02 12:23:27
+TURNO 1: Matteo gioca Cappellino Natale
+TURNO 1: Simone gioca Slide Lab
+TURNO 1: Giacomo gioca Slide Lab
+Partita del: 2024-07-02 12:29:38
+TURNO 1: Matteo gioca Eduroam
+TURNO 1: Simone gioca Esse3
+TURNO 1: €]•ã‡ gioca Tastiera
+TURNO 2: Matteo gioca Unicamente
+TURNO 2: Simone gioca CLion
+Partita del: 2024-07-02 12:41:44
+TURNO 1: Matteo gioca MS Teams
+TURNO 1: Simone gioca DevC++
+TURNO 1: Jacopo gioca DevC++
+TURNO 1: Luca gioca Laboratorio T
+TURNO 2: Matteo gioca Dispense Teoria
+TURNO 2: Simone gioca InfoLife
+TURNO 2: Jacopo gioca Mouse
+TURNO 2: Luca gioca InfoLife
+Partita del: 2024-07-02 12:46:58
+TURNO 1: Matteo gioca Cappellino Natale
+TURNO 1: Simone gioca Cavo Ethernet
+TURNO 1: Jacopo gioca Unicamente
+TURNO 1: Luca gioca Laboratorio T
+TURNO 2: Matteo gioca Unicamente
+TURNO 2: Simone gioca Esse3
+TURNO 2: Jacopo gioca Mouse
+TURNO 2: Luca gioca Dispense Teoria
+TURNO 3: Matteo gioca Monitor
+TURNO 3: Simone gioca Eduroam
+TURNO 3: Jacopo gioca BatCaverna
+TURNO 3: Luca gioca DevC++
+Partita del: 2024-07-02 13:10:33
+Partita del: 2024-07-02 18:22:06
+TURNO 1: M gioca DevC++
+TURNO 1: G gioca Laboratorio T
+TURNO 1: F gioca Esse3
+TURNO 1: H gioca Dispense Teoria
+TURNO 2: M gioca Dispense Teoria
+TURNO 2: G gioca InfoLife
+TURNO 2: F gioca Tastiera
+TURNO 2: H gioca Unicamente
+Partita del: 2024-07-02 18:38:36
+Partita del: 2024-07-02 18:39:03
+Partita del: 2024-07-02 18:40:33
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca Esse3
+TURNO 1: Giovanni gioca Tastiera
+TURNO 1: Giacomo gioca Mouse
+TURNO 2: Matteo gioca Unicamente
+TURNO 2: Simone gioca Laboratorio T
+TURNO 2: Giovanni gioca Laboratorio T
+TURNO 2: Giacomo gioca Dispense Teoria
+TURNO 3: Matteo gioca Dispense Teoria
+TURNO 3: Simone gioca Laboratorio T
+TURNO 3: Giovanni gioca InfoLife
+TURNO 3: Giacomo gioca Mouse
+Partita del: 2024-07-02 19:01:56
+Partita del: 2024-07-02 19:02:21
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Simone gioca Monitor
+TURNO 1: Giovanni gioca Cappellino Natale
+TURNO 1: Giacomo gioca Cavo USB
+TURNO 2: Matteo gioca Cavo Ethernet
+TURNO 2: Simone gioca Mouse
+TURNO 2: Giovanni gioca Monitor
+TURNO 2: Giacomo gioca DevC++
+TURNO 3: Matteo gioca Monitor
+TURNO 3: Simone gioca Eduroam
+TURNO 3: Giovanni gioca Cavo Ethernet
+TURNO 3: Giacomo gioca CLion
+TURNO 4: Matteo gioca Esse3
+TURNO 4: Simone gioca InfoLife
+TURNO 4: Giovanni gioca Unicamente
+TURNO 4: Giacomo gioca BatCaverna
+TURNO 5: Simone gioca Esse3
+TURNO 5: Giovanni gioca Dispense Teoria
+TURNO 5: Giacomo gioca Laboratorio T
+TURNO 6: Simone gioca DevC++
+TURNO 6: Giovanni gioca InfoLife
+TURNO 6: Giacomo gioca Aula Magna Fisica
+TURNO 7: Simone gioca Cappellino Natale
+TURNO 7: Giovanni gioca Dispense Teoria
+TURNO 7: Ði§q gioca Cavo Ethernet
+Partita del: 2024-07-03 01:07:17
+TURNO 1: Matteo gioca Cavo Ethernet
+TURNO 1: Simone gioca BatCaverna
+TURNO 1: Luciano gioca Laboratorio T
+TURNO 2: Matteo gioca Eduroam
+TURNO 2: Simone gioca Dispense Teoria
+TURNO 2: Luciano gioca Unicamente
+TURNO 3: Matteo gioca Monitor
+TURNO 3: Simone gioca Monitor
+TURNO 3: Luciano gioca InfoLife
+Partita del: 2024-07-03 11:14:35
+TURNO 1: Matteo gioca Cappellino Natale
+TURNO 1: Simone gioca Dispense Teoria
+TURNO 1: Luciano gioca DevC++
+TURNO 2: Matteo gioca Cappellino Natale
+TURNO 2: Simone gioca InfoLife
+TURNO 2: Luciano gioca Maglione Natale
+TURNO 3: Matteo gioca DevC++
+TURNO 3: Simone gioca Cavo Ethernet
+TURNO 3: Luciano gioca Dispense Teoria
+Partita del: 2024-07-03 11:17:40
+Partita del: 2024-07-03 11:18:39
+Partita del: 2024-07-03 11:20:16
+Partita del: 2024-07-03 11:20:57
+Partita del: 2024-07-03 12:25:45
+Partita del: 2024-07-03 15:27:33
+Partita del: 2024-07-03 15:29:14
+Partita del: 2024-07-03 15:29:29
+Partita del: 2024-07-03 15:30:32
+Partita del: 2024-07-03 15:31:55
+Partita del: 2024-07-03 15:38:41
+Partita del: 2024-07-03 15:39:22
+Partita del: 2024-07-03 17:30:28
+Partita del: 2024-07-03 17:34:32
+Partita del: 2024-07-03 17:44:56
+Partita del: 2024-07-03 17:46:52
+Partita del: 2024-07-03 17:48:04
+Partita del: 2024-07-03 17:50:46
+Partita del: 2024-07-03 17:51:55
+Partita del: 2024-07-03 17:52:58
+Partita del: 2024-07-03 17:55:06
+Partita del: 2024-07-03 17:58:55
+Partita del: 2024-07-03 17:59:13
+Partita del: 2024-07-03 17:59:48
+Partita del: 2024-07-03 18:03:11
+Partita del: 2024-07-03 19:03:27
+Partita del: 2024-07-03 19:12:20
+Partita del: 2024-07-03 19:13:45
+Partita del: 2024-07-03 19:57:44
+Partita del: 2024-07-03 20:00:34
+Partita del: 2024-07-03 20:01:43
+Partita del: 2024-07-03 20:02:57
+Partita del: 2024-07-03 20:08:28
+Partita del: 2024-07-03 20:26:35
+Partita del: 2024-07-03 21:18:08
+TURNO 1: Matteo gioca Slide Lab
+TURNO 1: Simone gioca Cappellino Natale
+TURNO 1: Luciano gioca Laboratorio T
+Partita del: 2024-07-03 21:37:57
+Partita del: 2024-07-03 21:39:02
+Partita del: 2024-07-03 21:39:37
+TURNO 1: Matteo gioca Slide Lab
+TURNO 1: Simone gioca Cappellino Natale
+TURNO 1: Luciano gioca Laboratorio T
+Partita del: 2024-07-03 21:47:09
+Partita del: 2024-07-03 23:02:35
+Partita del: 2024-07-03 23:06:46
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Simone gioca Tastiera
+TURNO 1: Luciano gioca InfoLife
+TURNO 2: Matteo gioca Esse3
+TURNO 2: Simone gioca Tastiera
+TURNO 2: Luciano gioca InfoLife
+Partita del: 2024-07-03 23:15:34
+Partita del: 2024-07-03 23:36:40
+Partita del: 2024-07-03 23:37:13
+Partita del: 2024-07-03 23:39:57
+Partita del: 2024-07-03 23:40:42
+Partita del: 2024-07-03 23:52:32
+Partita del: 2024-07-04 00:09:00
+TURNO 1: Matteo gioca Esse3
+TURNO 1: Simone gioca Cavo Ethernet
+TURNO 1: Luciano gioca Esse3
+TURNO 2: Matteo gioca DevC++
+TURNO 2: Simone gioca DevC++
+TURNO 2: Luciano gioca Dispense Teoria
+TURNO 3: Matteo gioca Dispense Teoria
+TURNO 3: Simone gioca Cavo Ethernet
+TURNO 3: Luciano gioca Mouse
+TURNO 4: Matteo gioca InfoLife
+TURNO 4: Simone gioca Monitor
+TURNO 4: Luciano gioca Esse3
+TURNO 5: Matteo gioca Cavo Ethernet
+TURNO 5: Simone gioca Cavo USB
+TURNO 5: Luciano gioca Mouse
+Partita del: 2024-07-04 00:13:21
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: `^Bó_ gioca Mouse
+TURNO 1: Luciano gioca Cappellino Natale
+Partita del: 2024-07-04 00:15:02
+TURNO 1: Matteo gioca Cavo Ethernet
+TURNO 1: Luciano gioca Laboratorio T
+Partita del: 2024-07-04 00:15:44
+Partita del: 2024-07-04 00:19:05
+Partita del: 2024-07-04 00:19:45
+Partita del: 2024-07-04 00:20:53
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: Simone gioca Dispense Teoria
+TURNO 1: Luciano gioca Laboratorio T
+Partita del: 2024-07-04 00:21:30
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Simone gioca Unicamente
+TURNO 1: Paolo gioca DevC++
+TURNO 2: Matteo gioca Mouse
+TURNO 2: Simone gioca BatCaverna
+TURNO 2: Paolo gioca Dispense Teoria
+Partita del: 2024-07-04 00:22:14
+Partita del: 2024-07-04 00:28:02
+Partita del: 2024-07-04 00:34:41
+Partita del: 2024-07-04 00:34:55
+Partita del: 2024-07-04 00:35:03
+Partita del: 2024-07-04 00:40:33
+TURNO 1: Matteo gioca Eduroam
+TURNO 1: Simone gioca Cappellino Natale
+TURNO 1: Luciano gioca Dispense Teoria
+TURNO 1: Mariella gioca Cavo Ethernet
+Partita del: 2024-07-04 00:51:45
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca Laboratorio T
+TURNO 1: Luciano gioca Monitor
+TURNO 1: Mariella gioca BatCaverna
+Partita del: 2024-07-04 00:55:44
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Simone gioca Esse3
+TURNO 1: Luciano gioca Cavo Ethernet
+TURNO 1: Mariella gioca Maglione Natale
+Partita del: 2024-07-04 00:57:36
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Simone gioca Maglione Natale
+TURNO 1: Luciano gioca Eduroam
+TURNO 1: Mariella gioca DevC++
+Partita del: 2024-07-04 01:06:49
+Partita del: 2024-07-04 11:30:19
+Partita del: 2024-07-04 11:30:40
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca Tastiera
+TURNO 1: Luciano gioca MS Teams
+TURNO 1: Mariella gioca Dispense Teoria
+Partita del: 2024-07-04 11:33:50
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Simone gioca Laboratorio T
+TURNO 1: Luciano gioca Cavo Ethernet
+TURNO 1: Mariella gioca Dispense Teoria
+TURNO 2: Matteo gioca Cavo Ethernet
+TURNO 2: Simone gioca BatCaverna
+TURNO 2: Luciano gioca Cavo Ethernet
+TURNO 2: Mariella gioca Cappellino Natale
+TURNO 3: Matteo gioca InfoLife
+TURNO 3: Simone gioca Slide Lab
+TURNO 3: Luciano gioca DevC++
+TURNO 3: Mariella gioca Cappellino Natale
+TURNO 4: Matteo gioca DevC++
+TURNO 4: Simone gioca InfoLife
+TURNO 4: Luciano gioca InfoLife
+TURNO 4: Mariella gioca Esse3
+TURNO 5: Matteo gioca Laboratorio T
+TURNO 5: Simone gioca Cappellino Natale
+TURNO 5: Mariella gioca Laboratorio T
+Partita del: 2024-07-04 11:38:02
+TURNO 1: Matteo gioca CLion
+TURNO 1: Simone gioca Slide Lab
+TURNO 1: Luciano gioca Dispense Teoria
+TURNO 1: Mariella gioca Unicamente
+TURNO 2: Matteo gioca Dispense Teoria
+TURNO 2: Mariella gioca DevC++
+Partita del: 2024-07-04 11:42:31
+TURNO 1: Matteo gioca Cappellino Natale
+TURNO 1: Simone gioca InfoLife
+Partita del: 2024-07-04 11:48:29
+TURNO 1: Matteo gioca Mouse
+TURNO 1: Simone gioca Cappellino Natale
+Partita del: 2024-07-04 11:50:21
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: Simone gioca Cappellino Natale
+Partita del: 2024-07-04 11:51:14
+TURNO 1: Matteo gioca Eduroam
+TURNO 1: Simone gioca InfoLife
+Partita del: 2024-07-04 11:51:43
+Partita del: 2024-07-04 11:52:06
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Simone gioca Mouse
+Partita del: 2024-07-04 11:54:07
+Partita del: 2024-07-04 11:58:31
+Partita del: 2024-07-04 12:00:31
+Partita del: 2024-07-04 12:27:28
+Partita del: 2024-07-04 12:28:00
+Partita del: 2024-07-04 12:29:34
+TURNO 1: Matteo gioca Dispense Teoria
+TURNO 1: Simone gioca DevC++
+TURNO 1: Paolo gioca Unicamente
+TURNO 2: Matteo gioca Eduroam
+TURNO 2: Simone gioca Esse3
+TURNO 2: Paolo gioca Esse3
+Partita del: 2024-07-04 12:30:49
+TURNO 1: Matteo gioca Unicamente
+TURNO 1: Simone gioca Cappellino Natale
+TURNO 1: Paolo gioca Laboratorio T
+Partita del: 2024-07-04 12:32:13
+Partita del: 2024-07-04 12:32:36
+TURNO 1: Matteo gioca Laboratorio T
+TURNO 1: Simone gioca DevC++
+TURNO 1: Luciano gioca Unicamente
+TURNO 1: Mariella gioca InfoLife
+Partita del: 2024-07-04 12:47:48
+Partita del: 2024-07-04 12:56:41
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Simone gioca Laboratorio T
+TURNO 1: Paolo gioca Unicamente
+TURNO 2: Matteo gioca Laboratorio T
+TURNO 2: Simone gioca InfoLife
+TURNO 2: Paolo gioca Unicamente
+Partita del: 2024-07-04 13:07:13
+Partita del: 2024-07-04 13:07:44
+Partita del: 2024-07-04 14:09:10
+Partita del: 2024-07-04 14:09:59
+Partita del: 2024-07-04 14:10:44
+Partita del: 2024-07-04 14:11:32
+Partita del: 2024-07-04 14:11:52
+Partita del: 2024-07-04 14:16:11
+Partita del: 2024-07-04 14:17:08
+Partita del: 2024-07-04 14:19:52
+Partita del: 2024-07-04 14:21:43
+Partita del: 2024-07-04 14:24:05
+Partita del: 2024-07-04 14:25:11
+Partita del: 2024-07-04 14:26:12
+Partita del: 2024-07-04 14:27:43
+Partita del: 2024-07-04 14:29:00
+Partita del: 2024-07-04 14:29:31
+Partita del: 2024-07-04 14:30:22
+Partita del: 2024-07-04 14:31:05
+Partita del: 2024-07-04 14:31:24
+Partita del: 2024-07-04 14:32:02
+Partita del: 2024-07-04 14:32:41
+Partita del: 2024-07-04 14:33:11
+Partita del: 2024-07-04 14:33:25
+Partita del: 2024-07-04 14:35:50
+Partita del: 2024-07-04 14:36:39
+Partita del: 2024-07-04 14:37:22
+Partita del: 2024-07-04 14:39:52
+Partita del: 2024-07-04 14:40:43
+Partita del: 2024-07-04 14:48:55
+Partita del: 2024-07-04 14:51:28
+Partita del: 2024-07-04 14:52:29
+Partita del: 2024-07-04 14:53:06
+Partita del: 2024-07-04 14:53:56
+Partita del: 2024-07-04 14:55:21
+Partita del: 2024-07-04 14:56:50
+Partita del: 2024-07-04 14:57:41
+Partita del: 2024-07-04 14:58:58
+Partita del: 2024-07-04 15:03:01
+Partita del: 2024-07-04 15:05:21
+Partita del: 2024-07-04 15:07:58
+Partita del: 2024-07-04 15:10:13
+Partita del: 2024-07-04 15:10:44
+Partita del: 2024-07-04 15:11:16
+Partita del: 2024-07-04 15:12:55
+Partita del: 2024-07-04 15:14:08
+Partita del: 2024-07-04 15:15:25
+Partita del: 2024-07-04 15:18:08
+Partita del: 2024-07-04 15:19:05
+Partita del: 2024-07-04 15:25:11
+Partita del: 2024-07-04 15:26:41
+Partita del: 2024-07-04 15:32:06
+Partita del: 2024-07-04 15:46:33
+Partita del: 2024-07-04 15:47:12
+TURNO 1: Matteo gioca Monitor
+TURNO 1: Giacomo gioca InfoLife
+TURNO 2: Matteo gioca InfoLife
+TURNO 2: Giacomo gioca Maglione Natale
+Partita del: 2024-07-04 15:49:08
+TURNO 1: Matteo gioca DevC++
+TURNO 1: Giacomo gioca Cappellino Natale
+Partita del: 2024-07-04 15:51:58
+Partita del: 2024-07-04 16:02:07
+Partita del: 2024-07-04 16:02:36
+TURNO 1: Matteo gioca Cappellino Natale
+TURNO 1: Simone gioca Unicamente
+TURNO 2: Matteo gioca InfoLife
+TURNO 2: Simone gioca Cavo Ethernet
+Partita del: 2024-07-04 16:03:27
+Partita del: 2024-07-04 16:04:51
+Partita del: 2024-07-04 16:05:25
+Partita del: 2024-07-04 16:06:38
+Partita del: 2024-07-04 16:08:10
+Partita del: 2024-07-04 16:09:10
+Partita del: 2024-07-04 16:09:31
+TURNO 1: Matteo gioca MS Teams
+TURNO 1: Simone gioca Unicamente
+Partita del: 2024-07-04 16:11:59
+TURNO 1: Matteo gioca InfoLife
+TURNO 1: Simone gioca Cappellino Natale
+Partita del: 2024-07-04 16:20:53
