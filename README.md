@@ -68,8 +68,8 @@ Il file `log.txt` tiene traccia cronologica degli eventi della partita, ad esemp
 TURNO 1: Matteo gioca Clion TURNO 1: Alice gioca Tastiera TURNO 2: Luca gioca Maglione Natale ...
 
 ## Requisiti e note
--Standard C99.
--Non utilizza librerie esterne.
--Tutte le strutture rispettano l’ordine richiesto per compatibilità con i salvataggi.
--Codice commentato secondo standard Doxygen.
+- Standard C99.
+- Non utilizza librerie esterne.
+- Tutte le strutture rispettano l’ordine richiesto per compatibilità con i salvataggi.
+- Codice commentato secondo standard Doxygen.
 
